@@ -7,7 +7,7 @@ const ContactUs = () => {
     "https://api.whatsapp.com/send?phone=9063850784",  
                 // WhatsApp// LinkedIn
     // Instagram
-    "mailto:bhargava7771@gmail.com",
+    
     "https://www.instagram.com/crossroadswithshazinhijazy/",
     "https://www.linkedin.com/company/crossroads-with-shazin-hijazy"              
   ];
