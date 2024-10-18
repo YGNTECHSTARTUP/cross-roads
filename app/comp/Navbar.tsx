@@ -8,7 +8,7 @@ const Navbar = () => {
     const pathname = usePathname();
   return (
     <div>
-        <nav className='bg-background/80 h-16 text-lg font-bold  transition-all backdrop-blur-lg z-40 top-0 left-0 fixed w-full duration-300 border-primary border-b-2'>
+        <nav className='bg-background/80 h-16 text-lg font-bold  transition-all backdrop-blur-lg z-50 top-0 left-0 fixed w-full duration-300 border-primary border-b-2'>
         <div className="container flex h-16 items-center justify-between px-4 md:px-6">
 <Link href="/">
 <div className='container flex h-16 items-center font-bold font-sans text-md'>
@@ -37,7 +37,7 @@ const Navbar = () => {
 </div>
 <div className={`${pathname == "/Teams"?"hidden md:block text-teal-600":"hidden md:block"}`}>
     <Link href="/Teams">
-    Our Teams
+    Our Team
     </Link>
   
 </div>

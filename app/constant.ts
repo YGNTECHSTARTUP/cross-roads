@@ -49,26 +49,25 @@ export const partners = [
       guestSpeaker: "Dr. Parul Kumar",
       occupation: "Principal of Navy Children’s School Visakhapatnam",
       episodeTopic: "Stress Management and Living a Balanced Life",
-      guestImage: "https://example.com/images/parul-kumar.jpg",
+      guestImage: "guest9.jpeg",
       highlights: [
-        "https://www.instagram.com/p/DBOaoLJyKkt/?img_index=1",
-        "https://www.instagram.com/p/DBOaoLJyKkt/?img_index=5",
-        "https://www.instagram.com/p/DBOaoLJyKkt/?img_index=3",
-        "https://www.instagram.com/p/DBOaoLJyKkt/?img_index=7"
-      ]
+        "/ep91.png",
+        "/ep92.png",
+      ],
+      episodeno:9
     },
     {
       date:" 23rd September 2024",
-      title: "From Zero to Millions: The Oceanautics Journey in Revolutionizing Defense Tech",
+      title: "The Oceanautics Journey in Revolutionizing Defense Tech",
       guestSpeaker: "Abhishek Bokinala",
       occupation: "CEO & Founder of Oceanautics",
       episodeTopic: "Innovations in Defense Technology",
-      guestImage: "https://example.com/images/abhishek-bokinala.jpg",
+      guestImage: "guest8.jpeg",
       highlights: [
-        "https://www.instagram.com/p/DAQ7T9rSpAY/?img_index=1",
-        "https://www.instagram.com/p/DAQ7T9rSpAY/?img_index=4",
-        "https://www.instagram.com/p/DAQ7T9rSpAY/?img_index=7"
-      ]
+        "/ep81.png",
+        "/ep82.png"
+      ],
+      episodeno:8
     },
     {
       date:" 11th September 2024",
@@ -76,12 +75,12 @@ export const partners = [
       guestSpeaker: "Mr. Venugopal Lakshmipuram",
       occupation: "Motivational Speaker",
       episodeTopic: "Citizenship and Social Responsibility",
-      guestImage: "https://example.com/images/venugopal-lakshmipuram.jpg",
+      guestImage: "guest7.jpeg",
       highlights: [
-        "https://www.instagram.com/p/C_yfMnBzk8R/?img_index=1",
-        "https://www.instagram.com/p/C_yfMnBzk8R/?img_index=2",
-        "https://www.instagram.com/p/C_yfMnBzk8R/?img_index=8"
-      ]
+        "/ep72.png",
+        "/ep71.png"
+      ],
+      episodeno:7
     },
     {
       date:" 13th August 2024",
@@ -89,12 +88,12 @@ export const partners = [
       guestSpeaker: "Col. Rajneesh Akhoury",
       occupation:" Public Relations Officer",
       episodeTopic: "Technological Advancements in Industry",
-      guestImage: "https://example.com/images/public-relations.jpg",
+      guestImage: "guest6.jpeg",
       highlights: [
-        "https://www.instagram.com/p/C-nQ5a6yEo1/?img_index=1",
-        "https://www.instagram.com/p/C-nQ5a6yEo1/?img_index=4",
-        "https://www.instagram.com/p/C-nQ5a6yEo1/?img_index=5"
-      ]
+        "/ep61.png",
+        "/ep62.png"
+      ],
+      episodeno:6
     },
     {
       date:"24th July 2024",
@@ -102,25 +101,25 @@ export const partners = [
       guestSpeaker: "Hon. Ali Sabry, PC",
       occupation: "Sri Lanka’s Foreign Minister",
       episodeTopic: "Exploring Business and Trade Opportunities",
-      guestImage: "https://example.com/images/ali-sabry.jpg",
+      guestImage: "guest5.jpeg",
       highlights: [
-        "https://www.instagram.com/p/C94BtsytgPA/?img_index=1",
-        "https://www.instagram.com/p/C94BtsytgPA/?img_index=2",
-        "https://www.instagram.com/p/C94BtsytgPA/?img_index=4"
-      ]
+        "/ep51.png",
+        "/ep52.png"
+      ],
+      episodeno:5
     },
     {
       date:"10th July 2024",
-      title: "Building Social Impact: Empowering Youth through Volunteerism and Entrepreneurship",
+      title: "Building Social Impact: Empowering Youth",
       guestSpeaker: "Sri K. Satish Garu",
       occupation: "MD of F9 Technologies, Founder of Vizag Volunteers & Kalam Dream Labs",
       episodeTopic: "Volunteerism and Social Entrepreneurship",
-      guestImage: "https://example.com/images/satish-garu.jpg",
+      guestImage: "guest4.jpg",
       highlights: [
-        "https://www.instagram.com/p/C9Rg6zAtk4E/?img_index=2",
-        "https://www.instagram.com/p/C9Rg6zAtk4E/?img_index=1",
-        "https://www.instagram.com/p/C9Rg6zAtk4E/?img_index=8"
-      ]
+        "/ep41.png",
+        "/ep42.png"
+      ],
+      episodeno:4
     },
     {
       date:" 5th June 2024",
@@ -128,10 +127,12 @@ export const partners = [
       guestSpeaker: "Mr. V. Ramalingeswara Reddy Garu",
       occupation: "Head of the Placement Cell, Andhra University",
       episodeTopic: "Career Opportunities for Students",
-      guestImage: "https://example.com/images/ramalingeswara-reddy.jpg",
+      guestImage: "guest3.png",
       highlights: [
-     "https://www.instagram.com/p/C7sva_ESj4I/"
-      ]
+        "/ep31.png",
+        
+      ],
+      episodeno:3
     },
     {
       date:"29th April 2024",
@@ -139,12 +140,13 @@ export const partners = [
       guestSpeaker: "Prof. Mallikarjuna Rao Pasumarthi",
       occupation: "Head of the Department of Electrical Engineering, Andhra University",
       episodeTopic: "Technological Advancements and Entrepreneurship",
-      guestImage: "https://example.com/images/mallikarjuna-rao.jpg",
+      guestImage: "guest2.jpeg",
       highlights: [
-        "https://www.instagram.com/p/C6WjQjkSMvd/?img_index=1",
-        "https://www.instagram.com/p/C6WjQjkSMvd/?img_index=8",
-        "https://www.instagram.com/p/C6WjQjkSMvd/?img_index=2"
-      ]
+        "/ep21.png",
+        "/ep22.png"
+      ],
+      
+      episodeno:2
     },
     {
       date:"24 April 2024",
@@ -152,13 +154,21 @@ export const partners = [
       guestSpeaker: "Prof. V Krishna Mohan Garu",
       occupation: "Officer on Special Duty, Former Registrar, Andhra University",
       episodeTopic: "Management Trends and Future Directions",
-      guestImage: "https://example.com/images/v-krishna-mohan-garu.jpg",
+      guestImage: "guest1.jpeg",
       highlights: [
-        "https://www.instagram.com/p/C6J2jSkB3fg/?img_index=2",
-        "https://www.instagram.com/p/C6J2jSkB3fg/?img_index=3",
-        "https://www.instagram.com/p/C6J2jSkB3fg/?img_index=5"
-      ]
+        "/ep11.png",
+        "/ep12.png"
+      ],
+      episodeno:1
     }
   ];
+  export const teamMembers = [
+    { name: "Shazin Hijazy", role: "Host And Founder", image: "https://media.licdn.com/dms/image/v2/D5603AQGZqMc5aLONFQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728295355460?e=1734566400&v=beta&t=SSqBKYocNMzBMcsKJ0sRGo5BNmu3lWT8q3FRoVaj6Kg" },
+    { name: "Neeraj Dudaboyina", role: "Talk show Coordinator ", image: "https://media.licdn.com/dms/image/v2/D5603AQHEt6TRCsTgBw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710497366489?e=1734566400&v=beta&t=3EUxcHEuU6_rLjTXAEba-8hWr8Sy4wJIvqlUicWj4EQ" },
+    { name: "Moonika Sanapati", role: "Talk show Coordinator ", image: "https://media.licdn.com/dms/image/v2/D5603AQEh1RHs9_2Rag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1712157283557?e=1734566400&v=beta&t=3rytmDX_waBSzvVFr1QR8uCgwf3vrg38U_GyS1P02pA" },
+    { name: "S Nerendra", role: "Talk show Coordinator", image: "/placeholder.svg?height=100&width=100" },
+    { name: "Neeraj Vaddadi", role: "Talk show Coordinator", image: "https://media.licdn.com/dms/image/v2/D5603AQH3lr68vIiRQA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724654992429?e=1734566400&v=beta&t=helKi701ZkytBNFZCLe9gvI2HpzISQ_qf2SWnDJl-dU" },
+  ]
+  
   
   

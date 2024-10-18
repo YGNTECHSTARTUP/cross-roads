@@ -28,7 +28,7 @@ export default function PodcastTemplate({title, date,guestSpeaker, occupation, e
         <div className="flex flex-col md:flex-row gap-6">
           <div className="flex-shrink-0">
             <Image
-              src={guestImage}
+              src={"/"+guestImage}
               alt="Guest Profile"
               width={150}
               height={150}
@@ -62,8 +62,8 @@ export default function PodcastTemplate({title, date,guestSpeaker, occupation, e
                 key={index}
                 src={i}
                 alt={`Podcast Image ${index}`}
-                width={150}
-                height={150}
+                width={350}
+                height={350}
                 className="rounded-lg object-cover"
               />
             ))}
