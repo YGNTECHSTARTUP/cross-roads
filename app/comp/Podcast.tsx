@@ -55,7 +55,7 @@ export default function PodcastTemplate({title, date,guestSpeaker, occupation, e
         </div>
 
         <div className="mt-8">
-          <h3 className="text-lg font-semibold mb-4">Podcast Highlights</h3>
+          <h3 className="text-lg font-semibold mb-4">Talk Show Highlights</h3>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             {highlights.map((i,index) => (
               <Image
