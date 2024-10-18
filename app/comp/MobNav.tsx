@@ -23,7 +23,7 @@ const MobNav = () => {
             </div>
            </Link>
            <Link href={'/TalkShows'}>
-           <div className={`${pathname == "/TalkShows" ?" text-teal-600" :""}`}>
+           <div className={`${pathname == "/TalkShows" ?"ml-4 text-teal-600" :"ml-4"}`}>
                 <PiApplePodcastsLogoFill className='ml-[37%]'/>
                 TalkShows
             </div>

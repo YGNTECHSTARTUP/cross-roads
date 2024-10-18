@@ -4,6 +4,7 @@ import "./globals.css";
 import Navbar from "./comp/Navbar";
 import MobNav from "./comp/MobNav";
 
+
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
@@ -35,7 +36,7 @@ export default function RootLayout({
         <div className="block md:hidden">
         <MobNav/>
         </div>
-       
+     
       </body>
     </html>
   );
