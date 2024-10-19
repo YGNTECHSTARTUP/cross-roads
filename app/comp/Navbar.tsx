@@ -13,7 +13,7 @@ const Navbar = () => {
 <Link href="/">
 <div className='md:container flex h-16 items-center font-bold font-sans text-md'>
     &nbsp;
-    <Image src={"/logoss.png"} alt="CrossRoads" width={45} height={45} />
+    <Image src={"/logoss.png"} alt="CrossRoads" width={45} height={45} />&nbsp;&nbsp;
     <span className='text-sm md:text-md lg:text-lg'>
 
     Cross Roads with <span className='colgra'>
