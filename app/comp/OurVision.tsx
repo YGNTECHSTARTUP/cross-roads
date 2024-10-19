@@ -9,7 +9,7 @@ const OurVision = () => {
         <div className=' text-4xl  lg:px-8 sm:px-4 md:px-6 colgra underline underline-offset-2 md:text-6xl lg:text-7xl font-extrabold tex '>
             Our Vision</div>
             
-        <Image src={'/vision.png'} className='mx-auto hover:scale-125 md:hover:scale-0' alt='Vision' width={2040} height={2040}/>
+        <Image src={'/vision.png'} className='mx-auto ' alt='Vision' width={2040} height={2040}/>
         </div>
 <div></div>
     </div>
