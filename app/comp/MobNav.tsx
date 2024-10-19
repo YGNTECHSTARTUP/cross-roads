@@ -10,7 +10,7 @@ const MobNav = () => {
     const pathname = usePathname();
   return (
     <div>
-        <nav className='bg-background/80 h-16 bottom-0 left-0 backdrop-blur-lg border-t-2 border-primary  fixed z-40 w-full transition-all duration-300 '>
+        <nav className='bg-background/80 h-16 bottom-0  left-0 backdrop-blur-lg border-t-2 border-primary  fixed z-40 w-full transition-all duration-300 '>
          
          <div className='container justify-between flex h-16 items-center   px-4 md:px-6'>
            <Link href={'/'}>
