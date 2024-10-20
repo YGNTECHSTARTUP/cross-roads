@@ -8,7 +8,7 @@ import Image from 'next/image'
 const About = () => {
   return (
     <div id="about">
-         <div className="h-fit   rounded-md bg-white dark:bg-neutral-900 flex   relative w-full">
+         <div className="h-fit   rounded-md bg-white dark:bg-black flex   relative w-full">
       <div className='m-8   md:m-20 w-full'>
         <div className=' text-4xl colgra text-center underline underline-offset-2 md:text-6xl lg:text-7xl font-extrabold tex '>
             About Us</div>

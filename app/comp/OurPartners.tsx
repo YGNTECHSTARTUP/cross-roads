@@ -17,7 +17,7 @@ export function OurPartners() {
     Autoplay({ delay: 4000 })
   )
   return (
-    <div className="bg-neutral-900">
+    <div className="bg-black">
         <div className=' text-3xl text-center  lg:px-8 sm:px-4 md:px-6 colgra underline underline-offset-2 md:text-6xl lg:text-7xl font-extrabold tex '>
         Our Partners</div>
         <Carousel 

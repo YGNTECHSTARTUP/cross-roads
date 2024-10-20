@@ -4,8 +4,12 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import React from 'react'
-
-  
+import { Dancing_Script } from 'next/font/google'
+  const ds = Dancing_Script({
+    style:['normal'],
+    weight:['400','700'],
+    subsets:['latin']
+  })
 const Navbar = () => {
     const pathname = usePathname();
   return (
@@ -19,8 +23,11 @@ const Navbar = () => {
     <span className='text-sm md:text-md lg:text-xl font-bold'>
 
     Cross Roads with {""}
-        <span className='colgra'>
-        Shazin Hijazy.
+        <span className='colgra text-lg md:text-xl lg:text-2xl'>
+            <span className={`${ds.className}`}>
+            Shazin Hijazy.
+            </span>
+       
         </span>
     
       

@@ -12,11 +12,11 @@ const ContactUs = () => {
     "https://www.linkedin.com/company/crossroads-with-shazin-hijazy"              
   ];
   return (
-    <div id="contact">
-           <div className="w-[calc(100%-4rem)] mx-auto rounded-md  h-[30rem] overflow-hidden">
+    <div id="contact" className='-mt-[10%]  bg-black'>
+           <div className="w-full mx-auto rounded-md  h-[30rem] overflow-hidden">
       <Vortex
        baseHue={120}
-        backgroundColor="neutral-900"
+        backgroundColor="black"
         className="flex items-center flex-col justify-center px-2 md:px-10 py-4 w-full h-full"
       >
         <h2 className="text-white text-2xl md:text-6xl font-bold text-center">
