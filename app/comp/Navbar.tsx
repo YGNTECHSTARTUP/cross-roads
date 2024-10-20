@@ -1,9 +1,11 @@
 "use client"
+
 import Image from 'next/image'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import React from 'react'
 
+  
 const Navbar = () => {
     const pathname = usePathname();
   return (
@@ -14,11 +16,14 @@ const Navbar = () => {
 <div className='md:container flex h-16 items-center font-bold font-sans text-md'>
     &nbsp;
     <Image src={"/logoss.png"} alt="CrossRoads" width={45} height={45} />&nbsp;&nbsp;
-    <span className='text-sm md:text-md lg:text-lg'>
+    <span className='text-sm md:text-md lg:text-xl font-bold'>
 
-    Cross Roads with <span className='colgra'>
-    Shazin Hijazy.
+    Cross Roads with {""}
+        <span className='colgra'>
+        Shazin Hijazy.
         </span>
+    
+      
         </span>
 </div>
 </Link>
