@@ -2,13 +2,15 @@
 import React from 'react'
 import { Vortex } from '@/components/ui/vortex'
 import { SocialIcon } from 'react-social-icons'
+import { FaMapLocationDot } from "react-icons/fa6";
+import Link from 'next/link';
 const ContactUs = () => {
   const urls = [
     
                 // WhatsApp// LinkedIn
     // Instagram
     "mailto:crossroadswithshazinhijazy@gmail.com",
-   "https://maps.app.goo.gl/MbqpmRroJAosi35VA",
+   
     "https://chat.whatsapp.com/GAcDhia5As86P9AkvBEAlF",
     "https://www.instagram.com/crossroadswithshazinhijazy/",
     "https://www.linkedin.com/company/crossroads-with-shazin-hijazy"              
@@ -25,12 +27,15 @@ const ContactUs = () => {
           Connect With Us
         </h2>
     
-        <div className="flex-col  items-center gap-4 mt-6">
+        <div className="flex  items-center gap-4 mt-6">
           {
             urls.map((url,index)=>(
             <SocialIcon url={url} key={index} fgColor="white" bgColor="transparent" style={{ height: 50, width: 50 }}/>
             ))
-          }
+          }&nbsp;
+          <Link href="https://maps.app.goo.gl/MbqpmRroJAosi35VA">
+          <FaMapLocationDot size={25} />
+          </Link>
         </div>
       </Vortex>
     </div>
