@@ -40,7 +40,7 @@ export function Hero() {
         </button>
             </Link>
         &nbsp;
-        <Link href={"mailto:crossroadswithshazin@gmail.com"}>
+        <Link href={"mailto:crossroadswithshazinhijazy@gmail.com"}>
         <button className="px-2 py-1 md:px-4 md:py-2 backdrop-blur-sm border bg-teal-300/10 border-teal-500/20 text-white mx-auto text-center rounded-full relative mt-4">
           <span>Get in Touch with Us →</span>
           <div className="absolute inset-x-0  h-px -bottom-px bg-gradient-to-r w-3/4 mx-auto from-transparent via-teal-500 to-transparent" />

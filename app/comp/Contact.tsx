@@ -4,10 +4,12 @@ import { Vortex } from '@/components/ui/vortex'
 import { SocialIcon } from 'react-social-icons'
 const ContactUs = () => {
   const urls = [
-    "https://api.whatsapp.com/send?phone=9063850784",  
+    
                 // WhatsApp// LinkedIn
     // Instagram
-    
+    "mailto:crossroadswithshazinhijazy@gmail.com",
+   "https://maps.app.goo.gl/MbqpmRroJAosi35VA",
+    "https://chat.whatsapp.com/GAcDhia5As86P9AkvBEAlF",
     "https://www.instagram.com/crossroadswithshazinhijazy/",
     "https://www.linkedin.com/company/crossroads-with-shazin-hijazy"              
   ];
