@@ -8,7 +8,7 @@ export function Hero() {
   return (
     <BackgroundBeamsWithCollision>
         <div>
-            <Image src="/logo.png" alt="CrossRoads" width={200} height={200} className="rounded-full hover:border-teal-400 hover:border-2 hover:scale-125 size-20 lg:size-40 xl:size-60  mx-auto" />
+            <Image src="/logo.png" alt="CrossRoads" width={200} height={200} className="rounded-full hover:border-teal-400 hover:border-2  size-20 lg:size-40 xl:size-60  mx-auto" />
             {/* <TfiMicrophone size={250} className="mx-auto h-20 w-20 md:size-40 "/> */}
         <h2 className="text-4xl relative z-20 font-bold md:text-4xl lg:text-7xl  text-center text-black dark:text-white font-sans tracking-tight">
       CrossRoads with{" "}<br/>
