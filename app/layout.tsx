@@ -3,7 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Navbar from "./comp/Navbar";
 import MobNav from "./comp/MobNav";
-import Footer from "./comp/Footer";
+// import Footer from "./comp/Footer";
 
 
 const geistSans = localFont({
@@ -34,7 +34,7 @@ export default function RootLayout({
       >
         <Navbar/>
         {children}
-        <Footer/>
+        {/* <Footer/> */}
         <div className="block md:hidden mt-20">
         
         <MobNav/>

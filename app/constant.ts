@@ -42,6 +42,30 @@ export const partners = [
       },
       
   ];
+  
+  export const visionaries = [
+    {
+      name: "Dr V Gowri Sankara Rao",
+      title: "Visionary behind the show",
+      image: "/pillar1.jpeg",
+      description: "Dr. V Gowri Sankara Rao is the visionary driving the talk show. His goal is to bring together leaders in technology, science, and society to spark innovation and inspire impactful conversations, share the things to society"
+    },
+    {
+      name: "Vaghira Ma’am",
+      title: "Guiding Light",
+      image: "/pillar2.png",
+      description: "Vaghira Ma’am provides invaluable support and guidance, ensuring the show's discussions are intellectually stimulating and accessible. Her presence helps create an inspiring atmosphere for thoughtful dialogue."
+    },
+    {
+      name: "Dr Giri Raja Sekhar Gunnu",
+      title: "Show Enabler",
+      image: "/pillar3.jpeg",
+      description: "Dr. Giri Raja Sekhar Gunnu ensures the smooth execution of the show. His organizational skills and creative input guarantee engaging episodes, making sure each conversation leaves a lasting impact."
+    }
+  ];
+  
+  
+  
   export const episodes = [
     {
       title: "Stress Less, Live More",
