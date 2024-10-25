@@ -8,10 +8,10 @@ export default function Visionaries(){
   return (
     <section className="py-12 bg-black">
       <div className="container mx-auto px-4">
-        <h2 className="text-4xl lg:text-6xl font-bold text-center mb-12">Our Dream Visionaries</h2>
+        <h2 className="text-5xl lg:text-6xl font-bold text-center mb-12">Our Mentors</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {visionaries.map((visionary, index) => (
-            <BackgroundGradient key={index} className=" min-w-fit max-w-lg bg-white dark:bg-zinc-900">
+            <BackgroundGradient key={index} className=" min-w-fit min-h-fit rounded-2xl max-w-lg bg-white dark:bg-zinc-900">
  <Card key={index} className="overflow-hidden">
               <CardHeader className="p-0">
                 <Image

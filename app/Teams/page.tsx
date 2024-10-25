@@ -8,7 +8,7 @@ const Teams = () => {
     <section className="py-12 bg-gray-50 dark:bg-black ">
       <div className="container px-4 mx-auto">
         <Visionaries/>
-        <h2 className="text-5xl font-bold text-center mb-8 text-gray-800 dark:text-gray-200 ">Our Team</h2>
+        <h2 className="text-5xl font-bold lg:text-6xl  text-center mb-8 text-gray-800 dark:text-gray-200 ">Our Team</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
           {teamMembers.map((member, index) => (
             <div key={index} className="flex flex-col items-center p-4 bg-white dark:bg-gray-800 rounded-lg shadow-md">
