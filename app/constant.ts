@@ -45,10 +45,10 @@ export const partners = [
   
   export const visionaries = [
     {
-      name: "Dr V Gowri Sankara Rao",
+      name: "Dr E Sankara Rao",
       title: "Visionary behind the show",
-      image: "/pillar1.jpeg",
-      description: "Dr. V Gowri Sankara Rao is the visionary driving the talk show. His goal is to bring together leaders in technology, science, and society to spark innovation and inspire impactful conversations, share the things to society"
+      image: "/pillar11.png",
+      description: "Dr. E Sankara Rao is the visionary driving the talk show. His goal is to bring together leaders in technology, science, and society to spark innovation and inspire impactful conversations, share the things to society"
     },
     {
       name: "Vaghira Ma’am",
