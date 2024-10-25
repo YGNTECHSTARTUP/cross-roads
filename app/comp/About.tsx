@@ -16,7 +16,7 @@ const About = () => {
         <div className=' md:flex'>
         <ul className="list-disc list-inside space-y-2 text-white text-sm lg:text-lg 2xl:text-xl ">
           <div className='flex justify-center '>
-          <Image src='/pics.png' alt="Shazin" width={500} height={500} className='z-30 rounded-full md:hidden' />
+          <Image src='/logo.png' alt="Shazin" width={500} height={500} className='z-30 rounded-full md:hidden' />
           </div>
         
           <li>CrossRoads with Shazin Hijazy is a dynamic talk show that brings together leaders, innovators, and change-makers to share their journeys, insights, and experiences.</li>
@@ -31,7 +31,7 @@ const About = () => {
           <div className='text-center mx-auto flex justify-center 2xl:-mt-20 lg:justify-end flex-grow overflow-hidden'>
           
           
-          <Image src='/picfull.png' alt="Shazin" width={500} height={700} className='rounded-full hidden md:flex' />
+          <Image src='/logo.png' alt="Shazin" width={500} height={700} className='rounded-full hidden md:flex' />
 
           </div>
           </div>
