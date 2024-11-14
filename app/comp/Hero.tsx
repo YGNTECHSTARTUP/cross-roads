@@ -33,9 +33,9 @@ export function Hero() {
       </h2>
       <div className="mx-auto text-center flex justify-center">
       <div className="flex mx-auto text-center">
-            <Link href="#About">
+            <Link href="https://open.spotify.com/show/1nFlwddRHP8ShuYuTwk5he">
             <button className="px-2 py-1 md:px-4 md:py-2 backdrop-blur-sm border bg-teal-300/10 border-teal-500/20 text-white mx-auto text-center rounded-full relative mt-4">
-          <span>Explore More →</span>
+          <span>Catch Our Show!</span>
           <div className="absolute inset-x-0  h-px -bottom-px bg-gradient-to-r w-3/4 mx-auto from-transparent via-teal-500 to-transparent" />
         </button>
             </Link>

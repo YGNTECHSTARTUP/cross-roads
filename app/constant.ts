@@ -78,7 +78,8 @@ export const partners = [
         "/ep91.png",
         "/ep92.png",
       ],
-      episodeno:9
+      episodeno:9,
+      spotifylink:"https://open.spotify.com/embed/episode/6ehg5fTvmNrHyfTRBNCfGd/video?utm_source=generator"
     },
     {
       date:" 23rd September 2024",
@@ -91,7 +92,8 @@ export const partners = [
         "/ep81.png",
         "/ep82.png"
       ],
-      episodeno:8
+      episodeno:8,
+      spotifylink:"https://open.spotify.com/embed/episode/0FuyWbcCAfz4BQacG8jfRa/video?utm_source=generator"
     },
     {
       date:" 11th September 2024",
@@ -104,7 +106,8 @@ export const partners = [
         "/ep72.png",
         "/ep71.png"
       ],
-      episodeno:7
+      episodeno:7,
+      spotifylink:"https://open.spotify.com/embed/episode/2XMxeb7HooUwh0rc7xbbZR/video?utm_source=generator"
     },
     {
       date:" 13th August 2024",
@@ -117,7 +120,8 @@ export const partners = [
         "/ep61.png",
         "/ep62.png"
       ],
-      episodeno:6
+      episodeno:6,
+      spotifylink:"https://open.spotify.com/embed/episode/6PFXo1drJjspE7Jq5az5cp/video?utm_source=generator"
     },
     {
       date:"24th July 2024",
@@ -130,7 +134,8 @@ export const partners = [
         "/ep51.png",
         "/ep52.png"
       ],
-      episodeno:5
+      episodeno:5,
+      spotifylink:"https://open.spotify.com/embed/episode/6PFXo1drJjspE7Jq5az5cp/video?utm_source=generator"
     },
     {
       date:"10th July 2024",
@@ -143,7 +148,8 @@ export const partners = [
         "/ep41.png",
         "/ep42.png"
       ],
-      episodeno:4
+      episodeno:4,
+      spotifylink:"https://open.spotify.com/embed/episode/0XqgTKLkRkciPXIMrA0j26/video?utm_source=generator"
     },
     {
       date:" 5th June 2024",
@@ -156,7 +162,8 @@ export const partners = [
         "/ep31.png",
         
       ],
-      episodeno:3
+      episodeno:3,
+      spotifylink:"https://open.spotify.com/embed/episode/0XqgTKLkRkciPXIMrA0j26/video?utm_source=generator"
     },
     {
       date:"29th April 2024",
@@ -170,7 +177,8 @@ export const partners = [
         "/ep22.png"
       ],
       
-      episodeno:2
+      episodeno:2,
+      spotifylink:"https://open.spotify.com/embed/episode/0XqgTKLkRkciPXIMrA0j26/video?utm_source=generator"
     },
     {
       date:"24 April 2024",
@@ -183,7 +191,8 @@ export const partners = [
         "/ep11.png",
         "/ep12.png"
       ],
-      episodeno:1
+      episodeno:1,
+      spotifylink:"https://open.spotify.com/embed/episode/330WnypiuNkc69mUx4S3nN/video?utm_source=generator"
     }
   ];
   export const teamMembers = [

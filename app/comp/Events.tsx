@@ -16,6 +16,7 @@ export function Events() {
           highlights={episodes[0].highlights} 
           occupation={episodes[0].occupation} 
           title={episodes[0].title} 
+          spotifylink={episodes[0].spotifylink}
         />
       ),
     },
@@ -30,6 +31,7 @@ export function Events() {
           highlights={episodes[1].highlights} 
           occupation={episodes[1].occupation} 
           title={episodes[1].title} 
+          spotifylink={episodes[1].spotifylink}
         />
       ),
     },
@@ -44,6 +46,7 @@ export function Events() {
           highlights={episodes[2].highlights} 
           occupation={episodes[2].occupation} 
           title={episodes[2].title} 
+          spotifylink={episodes[2].spotifylink}
         />
       ),
     },
@@ -58,6 +61,7 @@ export function Events() {
           highlights={episodes[3].highlights} 
           occupation={episodes[3].occupation} 
           title={episodes[3].title} 
+          spotifylink={episodes[3].spotifylink}
         />
       ),
     },
@@ -72,6 +76,7 @@ export function Events() {
           highlights={episodes[4].highlights} 
           occupation={episodes[4].occupation} 
           title={episodes[4].title} 
+          spotifylink={episodes[4].spotifylink}
         />
       ),
     },
@@ -86,6 +91,7 @@ export function Events() {
           highlights={episodes[5].highlights} 
           occupation={episodes[5].occupation} 
           title={episodes[5].title} 
+          spotifylink={episodes[5].spotifylink}
         />
       ),
     },
@@ -100,6 +106,7 @@ export function Events() {
           highlights={episodes[6].highlights} 
           occupation={episodes[6].occupation} 
           title={episodes[6].title} 
+          spotifylink={episodes[6].spotifylink}
         />
       ),
     },
@@ -114,6 +121,7 @@ export function Events() {
           highlights={episodes[7].highlights} 
           occupation={episodes[7].occupation} 
           title={episodes[7].title} 
+          spotifylink={episodes[7].spotifylink}
         />
       ),
     },
@@ -128,6 +136,7 @@ export function Events() {
           highlights={episodes[8].highlights} 
           occupation={episodes[8].occupation} 
           title={episodes[8].title} 
+          spotifylink={episodes[8].spotifylink}
         />
       ),
     },

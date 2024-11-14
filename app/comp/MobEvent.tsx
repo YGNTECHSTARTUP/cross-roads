@@ -16,7 +16,8 @@ const MobEvent = () => {
           guestSpeaker={episode.guestSpeaker} 
           highlights={episode.highlights} 
           occupation={episode.occupation} 
-          title={episode.title}/>
+          title={episode.title}
+          spotifylink={episode.spotifylink}/>
         </div>
         
     ))
