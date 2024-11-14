@@ -14,18 +14,22 @@ const About = () => {
             About Us</div>
             <br/>
         <div className=' md:flex'>
-        <ul className="list-disc list-inside space-y-2 text-white text-sm lg:text-lg 2xl:text-xl ">
+        <ul className="list-disc list-inside space-y-2 text-white text-sm lg:text-md xl:text-lg  ">
           <div className='flex justify-center '>
           <Image src='/logo.png' alt="Shazin" width={500} height={500} className='z-30 rounded-full md:hidden' />
           </div>
         
-          <li>CrossRoads with Shazin Hijazy is a dynamic talk show that brings together leaders, innovators, and change-makers to share their journeys, insights, and experiences.</li>
-  <li>The show, hosted by Shazin Hijazy, serves as a platform to connect students, alumni, and professionals across generations, particularly within the Andhra University ecosystem.</li>
-  <li>Focused on promoting entrepreneurship, leadership, and innovation, CrossRoads features conversations with industry experts, entrepreneurs, and thought leaders from various fields, including technology, business, defense, and education.</li>
-  <li>Each episode offers viewers a deep dive into real-world challenges, strategies for success, and personal growth, providing both inspiration and actionable insights.</li>
-  <li>Supported by partners such as the Andhra University Alumni Association, codeiam.club, and A-Hub, CrossRoads has grown into a space where ideas are exchanged, and meaningful connections are fostered.</li>
-  <li>Through compelling dialogues and expert mentorship, CrossRoads is more than just a talk show—it&apos;s a hub for inspiration, collaboration, and growth, encouraging the next generation of leaders to dream big and achieve their goals.</li>
-</ul>
+  <li><strong>Crossroads with Shazin Hijazy</strong> started as a simple conversation between two friends, initially aimed at sharing personal experiences and ideas.</li>
+  <li>Over time, the podcast has evolved into a platform that showcases inspiring stories of technology, innovation, and entrepreneurship, resonating with a diverse and global audience.</li>
+  <li>The podcast features notable guests, including successful entrepreneurs, thought leaders, and industry experts, who share their unique experiences, insights, and lessons learned throughout their careers.</li>
+  <li>Each episode of Crossroads focuses on impactful ideas that drive progress, delving into the journeys of innovators, entrepreneurs, and leaders who have made significant contributions to their fields.</li>
+  <li className='hidden lg:block'>By engaging in meaningful and thought-provoking conversations, the podcast seeks to inform, inspire, and empower listeners from all backgrounds, encouraging them to pursue their passions and make a positive difference in the world.</li>
+  <li className='hidden lg:block'>Through storytelling, fresh perspectives, and diverse voices, Crossroads celebrates the power of human creativity and the transformative impact of technology and entrepreneurship on society.</li>
+  <li className='hidden lg:block'>The episodes are designed not only to entertain but also to provide valuable insights and actionable advice, helping individuals navigate their own paths toward success in both personal and professional life.</li>
+
+
+
+        </ul>
           <div className='lg:ml-2'>
          
           <div className='text-center mx-auto flex justify-center 2xl:-mt-20 lg:justify-end flex-grow overflow-hidden'>

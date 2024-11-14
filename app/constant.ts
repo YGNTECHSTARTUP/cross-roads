@@ -201,6 +201,7 @@ export const partners = [
     { name: "Moonika Sanapati", role: "Talk show Coordinator ", image: "https://media.licdn.com/dms/image/v2/D5603AQEh1RHs9_2Rag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1712157283557?e=1734566400&v=beta&t=3rytmDX_waBSzvVFr1QR8uCgwf3vrg38U_GyS1P02pA" },
     { name: "S Nerendra", role: "Talk show Coordinator", image: "/placeholder.svg?height=100&width=100" },
     { name: "Neeraj Vaddadi", role: "Talk show Coordinator", image: "https://media.licdn.com/dms/image/v2/D5603AQH3lr68vIiRQA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724654992429?e=1734566400&v=beta&t=helKi701ZkytBNFZCLe9gvI2HpzISQ_qf2SWnDJl-dU" },
+    {name:"Joel Raj Kammara",role:"Co Founder, Creative Director",image:"https://media.licdn.com/dms/image/v2/D5635AQETo6mZouPL6g/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1721394397234?e=1732201200&v=beta&t=fDpqYC5Tis7QDvapZSDZBj_YqnDpyqtUmYe9HsKWReY"}
   ]
   
   
