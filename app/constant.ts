@@ -68,6 +68,36 @@ export const partners = [
   
   export const episodes = [
     {
+      title: "Effective IP & Innovation Management",
+      guestSpeaker: "Dr.Bijay Kumar Sahu",
+      occupation: "Senior Regional Manager & Head (Outreach) at National Research Development Corporation, Government of India",
+      date: "5th February 2025",
+      episodeTopic: "Effective IP & Innovation Management for Excellence in Industry Connect",
+      guestImage: "guest11.png",
+      episodeno: 11,
+      highlights: [
+        "/ep111.png",
+        "/ep112.png"
+      ],
+      spotifylink: "https://open.spotify.com/embed/episode/your-episode-link-here"
+    }
+,    
+    {
+      title: "Beyond the Badge: Public Safety",
+      guestSpeaker: "Sri Dr. A. Narasimha Murthy PhD",
+      occupation: "Assistant Commissioner of Police, Vizag West Sub-Division",
+      date:"13th November 2024",
+      episodeTopic:"Leadership And Life in Uniform",
+      guestImage:"guest10.png",
+      episodeno:10,
+      highlights:[
+        "/ep101.png",
+        "/ep102.png"
+      ],
+      spotifylink:"https://open.spotify.com/embed/episode/6ehg5fTvmNrHyfTRBNCfGd/video?utm_source=generator"
+
+    },
+    {
       title: "Stress Less, Live More",
       date:"16th October 2024",
       guestSpeaker: "Dr. Parul Kumar",
